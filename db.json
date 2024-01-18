@@ -1,0 +1,108 @@
+{
+    "employees": [
+      {
+        "id": "1",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "department": "Tech",
+        "salary": 50000
+      },
+      {
+        "id": "2",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@example.com",
+        "department": "Marketing",
+        "salary": 60000
+      },
+      {
+        "id": "3",
+        "firstName": "Mike",
+        "lastName": "Johnson",
+        "email": "mike.johnson@example.com",
+        "department": "Operations",
+        "salary": 55000
+      },
+      {
+        "id": "17a8",
+        "firstName": "Mridul",
+        "lastName": "Katara",
+        "email": "katara@gmail.com",
+        "department": "Marketing",
+        "salary": "100000"
+      },
+      {
+        "id": "6c2e",
+        "firstName": "Mikal",
+        "lastName": "Jordan",
+        "email": "Jordan@mikal.com",
+        "department": "Tech",
+        "salary": "5000000"
+      },
+      {
+        "id": "7a60",
+        "firstName": "Anshu ",
+        "lastName": "Katara",
+        "email": "anshukatara@gmail.com",
+        "department": "Tech",
+        "salary": "125000"
+      },
+      {
+        "id": "138d",
+        "firstName": "Neha",
+        "lastName": "Sharma",
+        "email": "sharma@TCS.com",
+        "department": "Tech",
+        "salary": "30000"
+      },
+      {
+        "id": "2ade",
+        "firstName": "Anjali",
+        "lastName": "Sinha",
+        "email": "sinha@gmail.com",
+        "department": "Tech",
+        "salary": "75000"
+      },
+      {
+        "id": "2dca",
+        "firstName": "Arnab",
+        "lastName": "Singh",
+        "email": "singh@google.com",
+        "department": "Operations",
+        "salary": "34996"
+      },
+      {
+        "id": "2dca",
+        "firstName": "Arnab",
+        "lastName": "Singh",
+        "email": "singh@google.com",
+        "department": "Operations",
+        "salary": "34996"
+      },
+      {
+        "id": "56da",
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "department": "Operations",
+        "salary": ""
+      },
+      {
+        "id": "33f8",
+        "firstName": "Anshu",
+        "lastName": "Katara",
+        "email": "anshukatara@gmail.com",
+        "department": "Operations",
+        "salary": "65000"
+      },
+      {
+        "id": "9633",
+        "firstName": "Anshu",
+        "lastName": "Katara",
+        "email": "anshukatara@gmail.com",
+        "department": "Tech",
+        "salary": "65000"
+      }
+    ]
+  }
